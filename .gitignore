@@ -130,6 +130,7 @@ dmypy.json
 
 # Dataset
 *.npy
+*.csv
 
 # Figure
 *.png
